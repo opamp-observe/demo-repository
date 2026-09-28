@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Exclude test folders
+.verify_overlay_ps/
+.verify_overlay_sh/
